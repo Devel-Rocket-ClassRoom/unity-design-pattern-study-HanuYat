@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "game-programming-patterns-demo.slnx"
+    "dotnet.defaultSolution": "unity-design-pattern-study-HanuYat.slnx"
 }

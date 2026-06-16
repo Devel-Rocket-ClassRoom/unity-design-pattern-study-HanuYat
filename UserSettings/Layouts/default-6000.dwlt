@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Console
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 112}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 938
+  controlID: 158
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 798
+  controlID: 25
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -167,8 +167,8 @@ MonoBehaviour:
     y: 0
     width: 899
     height: 389
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 851
+  controlID: 74
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 852
+  controlID: 75
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -271,8 +271,8 @@ MonoBehaviour:
     y: 0
     width: 274
     height: 699
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -323,8 +323,8 @@ MonoBehaviour:
     y: 699
     width: 579
     height: 234
-  m_MinSize: {x: 50, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 52, y: 76}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -349,8 +349,8 @@ MonoBehaviour:
     y: 0
     width: 442
     height: 933
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -1202,7 +1202,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.14818983, y: 0.45970577, z: -0.07811191, w: -0.8721294}
     speed: 2
-    m_Value: {x: -0.14818977, y: 0.4597056, z: -0.07811188, w: -0.8721291}
+    m_Value: {x: -0.14818983, y: 0.4597058, z: -0.07811191, w: -0.8721294}
   m_Size:
     m_Target: 9.401252
     speed: 2
@@ -1281,15 +1281,11 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 43948
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -43978
-      - m_Data: -39796
-      - m_Data: -18484
-      - m_Data: -14724
-      - m_Data: -3086
       - m_Data: -1336
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1365,7 +1361,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/UnityTechnologies
+    - Assets/UnityTechnologies/_SOLID/5_DependencyInversion/Materials
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1376,7 +1372,7 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\jnjn1\repos\game-programming-patterns-demo
+  m_LastProjectPath: C:\Users\jnjn1\repos\unity-design-pattern-study-HanuYat
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
@@ -1387,22 +1383,21 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 43114
-    - m_Data: 43116
-    - m_Data: 43118
-    - m_Data: 43120
-    - m_Data: 43122
-    - m_Data: 43124
-    - m_Data: 43128
-    - m_Data: 43130
-    - m_Data: 43132
-    - m_Data: 43134
-    - m_Data: 43136
-    - m_Data: 43138
-    - m_Data: 43140
+    - m_Data: 43514
+    - m_Data: 43516
+    - m_Data: 43518
+    - m_Data: 43520
+    - m_Data: 43522
+    - m_Data: 43524
+    - m_Data: 43526
+    - m_Data: 43528
+    - m_Data: 43530
     - m_Data: 43532
+    - m_Data: 43534
+    - m_Data: 43536
+    - m_Data: 43538
+    - m_Data: 43540
     - m_Data: 43542
-    - m_Data: 43570
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1430,26 +1425,31 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: []
+    m_SelectedIDs:
+    - m_Data: 43948
     m_LastClickedID:
-      m_Data: 0
+      m_Data: 43948
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 43114
-    - m_Data: 43116
-    - m_Data: 43118
-    - m_Data: 43120
-    - m_Data: 43122
-    - m_Data: 43124
-    - m_Data: 43128
-    - m_Data: 43130
-    - m_Data: 43132
-    - m_Data: 43134
-    - m_Data: 43136
-    - m_Data: 43138
-    - m_Data: 43140
+    - m_Data: 43514
+    - m_Data: 43516
+    - m_Data: 43518
+    - m_Data: 43520
+    - m_Data: 43522
+    - m_Data: 43524
+    - m_Data: 43526
+    - m_Data: 43528
+    - m_Data: 43530
     - m_Data: 43532
-    - m_Data: 43570
+    - m_Data: 43534
+    - m_Data: 43536
+    - m_Data: 43538
+    - m_Data: 43540
+    - m_Data: 43542
+    - m_Data: 43910
+    - m_Data: 43940
+    - m_Data: 43948
+    - m_Data: 43954
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1476,8 +1476,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 43948
+    m_LastClickedInstanceID: 43948
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
